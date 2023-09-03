@@ -1,2 +1,3 @@
 # Airbnb_price_prediction
-Airbnb price prediction is a data-driven process that uses various machine learning and statistical techniques to estimate the price of a property listed on the Airbnb platform. It involves analyzing a wide range of factors including amenities, host response rate, host acceptance rate etc.
+Airbnb price prediction is a data-driven process that uses various machine learning and statistical techniques to estimate the price of a property listed on the Airbnb platform. It involves analyzing a wide range of factors including amenities, host response rate, host acceptance rate, location, property type, amenities, historical booking data, seasonality, and local events, to forecast the nightly rate that hosts can charge for their accommodations. This predictive modeling helps both hosts and guests make informed decisions about pricing and booking, ultimately optimizing the Airbnb experience for all parties involved.
+
